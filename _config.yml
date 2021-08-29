@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chris West"
   avatar           : "photoa.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "UW Computer Science PhD"
   location         : "Waterloo, ON"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fd13d80AAAAJ&hl=en&authuser=1"
-  email            :
+  email            : "chrisjwest99@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
