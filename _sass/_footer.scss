@@ -12,7 +12,8 @@
   /* sticky footer fix start */
   position: absolute;
   bottom: 0em;
-  height: auto;
+  /* height: auto; */
+  height: 1px;
   /* sticky footer fix end */
   margin-top: 3em;
   color: mix(#252a34, $gray, 50%);
