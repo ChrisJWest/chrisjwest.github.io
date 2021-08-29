@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chris West"
-  avatar           : "files/photoa.JPG"
+  avatar           : "photoa.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Waterloo, ON"
   employer         :
