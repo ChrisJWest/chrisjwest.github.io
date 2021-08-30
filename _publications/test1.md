@@ -1,6 +1,6 @@
 ---
 ## WEEOOO
-title:
+title: ""
 collection: publications
 permalink: /publication/2019-bayespostest
 date: 2019-10-01
