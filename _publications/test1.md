@@ -1,8 +1,8 @@
 ---
 ## WEEOOO
-title: ""
+title: "testest"
 collection: publications
-permalink: /publication/2019-bayespostest
+permalink: 
 date: 2019-10-01
 venue: 'Journal of Open Source Software'
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
