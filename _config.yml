@@ -184,6 +184,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  portfolioAcademic:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
