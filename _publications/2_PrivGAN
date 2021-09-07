@@ -3,5 +3,5 @@ title: "Reducing bias and increasing utility by federated generative modeling of
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 link: 'https://dl.acm.org/doi/10.1145/3462203.3475875'
-citation: 'JF Rajotte, S Mukherjee, C Robinson, A Ortiz, <b>C West</b>, JL Ferres, RT Ng, “Reducing bias and increasing utility by federated generative modeling of medical images using a centralized adversary,” presented at the <i>GoodIT ’21: Conference on Information Technology for Social Good</i>, Sep. 2021. doi: 10.1145/3462203.3475875.<br>(note: see press release <a href="https://venturebeat.com/2021/01/20/microsofts-felicia-taps-ai-to-enable-health-providers-to-share-data-anonymously/">here</a>)'
+citation: 'JF Rajotte, S Mukherjee, C Robinson, A Ortiz, <b>C West</b>, JL Ferres, RT Ng, “Reducing bias and increasing utility by federated generative modeling of medical images using a centralized adversary,” presented at the <i>GoodIT ’21: Conference on Information Technology for Social Good</i>, Sep. 2021. doi: 10.1145/3462203.3475875.<br>(note: see press release [BayesPostEst](https://cran.r-project.org/package=BayesPostEst))'
 ---
