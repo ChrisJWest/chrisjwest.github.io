@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sentiment Keyboard"
+excerpt: "Detection and prevention of cyberbullying through the development of a client-based keyboard application which detects message sentiment via NLP and machine learning techniques. The keyboard application was built in Android Studio, with embedded NLP and machine learning techniques extracted from WEKA libraries. Built for a Summer project alongside Jacob Reckhard and Ibrahim Elmallah as part of the Ross and Verna Tate High School Internship Program. See details and press release for more information. <br/><img src='/images/ic_launcher.png'>"
 collection: portfolioAcademic
 ---
 
