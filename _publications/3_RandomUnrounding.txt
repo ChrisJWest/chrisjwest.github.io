@@ -1,0 +1,7 @@
+---
+title: "[Preprint] Random (Un)rounding : Vulnerabilities in Discrete Attribute Disclosure in the 2021 Canadian Census"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+link: 'https://arxiv.org/user/'
+citation: '<b>C. West</b>, I. Vecna, R. Chowdhury, “Random (Un)rounding : Vulnerabilities in Discrete Attribute Disclosure in the 2021 Canadian Census,” currently in preprint, brought to the attention of the Canadian Census Bureau to highlight possible privacy issues with their latest Census disclosure'
+---
