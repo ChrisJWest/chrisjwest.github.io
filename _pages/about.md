@@ -10,4 +10,6 @@ redirect_from:
 
 I'm a graduate student at the David R. Cheriton School of Computer Science at the University of Waterloo in Ontario, Canada. I work with Dr. Anita Layton and Dr. Justin Wan on various topics, mainly focusing on medical applications of computer science techniques. I also have interests in computer vision, machine+deep learning and privacy.
 
+My expected graduation is September 2023.
+
 I previously recieved my B.Sc. in Honours Computer Science at the University of British Columbia (2017-2021).
