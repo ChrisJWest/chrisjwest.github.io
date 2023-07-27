@@ -6,6 +6,10 @@ main:
   - title: "Projects"
     url: /portfolio/
 
+  - title: "Resume"
+    url: /files/resume.pdf
+    
+
  # - title: "Teaching"
  #   url: /teaching/    
  #   
