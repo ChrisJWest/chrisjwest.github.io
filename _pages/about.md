@@ -21,4 +21,4 @@ As a recent graduate of the David R. Cheriton School of Computer Science at the 
 
 Prior to my Master's, I obtained my B.Sc. in Honours Computer Science from the University of British Columbia (2017-2021), culminating in a final thesis on federated image preprocessing using a mutual information metric.
 
-Currently, I am actively seeking a challenging role in the realms of AI, data science, or privacy research. I welcome any opportunities for collaboration or discussion, and can be reached at chrisjwest99@gmail.com.
+I will be starting a new role as a Data Scientist at Canadian Nuclear Labs as of July 2024. I welcome any opportunities for collaboration or discussion, and can be reached at chrisjwest99@gmail.com.
